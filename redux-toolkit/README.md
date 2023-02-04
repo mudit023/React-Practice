@@ -1,4 +1,4 @@
-# Redux Toolkit app
+# Redux Auth app
 
 A simple clone of a authentication page to understand Redux, and Redux-toolkit.
 

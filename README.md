@@ -25,4 +25,6 @@ Deployment: https://foodiee-react-practice.netlify.app/
 
 ![Foodiee Cart](./screnshots/Screenshot%202022-12-03%20185526.png)
 
+## Project 4: [Redux Auth](https://redux-tool-app.netlify.app/)
 
+![Redux Auth](./screnshots/Screenshot%202023-02-04%20233904.png)
